@@ -10,3 +10,5 @@ print("{} love {}!!".format("Maria",
 print("A={:.2f}".format(A))
 
 print(f'Este número com duas casas decimais: {A:.2f}')
+
+print("test")
